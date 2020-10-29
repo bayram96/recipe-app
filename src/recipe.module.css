@@ -8,10 +8,23 @@
   background: white;
   align-items: center;
   min-width: 40%;
+  color: rgb(151, 6, 6);
+  font-size: 1.2rem;
+  padding: 15px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.recipe p {
+  font-weight: 700;
 }
 
+.recipe li {
+  padding: 3px;
+}
 .image {
   border-radius: 15%;
   width: 300px;
   height: 300px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 1px 1px 10px pink;
 }
